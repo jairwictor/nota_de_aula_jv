@@ -1,1 +1,2 @@
-# nota_de_aula_jv
+# nota de aula
+# linguagem de progamação - java
